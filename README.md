@@ -9,4 +9,4 @@ Please click the "Roperts" below to go to the shared google doc
 
 ## Build example application on IOS
 
-Following the <a href="https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/">
+Following the https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
