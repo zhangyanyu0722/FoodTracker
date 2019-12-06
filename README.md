@@ -12,7 +12,7 @@ Please click the "Roperts" below to go to the shared google doc
 Following the https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
 
 <p align="center">
-  <img src= "https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.20%20PM.png">
+  <img src= "https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.20%20PM.png" width="200" height="400">
 </p>
 
 <p align="center">
