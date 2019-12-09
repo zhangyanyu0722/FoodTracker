@@ -1,5 +1,11 @@
 # Mini_project_3
 
+## Environment
+### Develop env: manOS High Sierra Version 10.13.6
+### Target OS: iOS
+### Development tool: Xcode 10.1
+### Simulator: iPhone 7
+
 ## Reports
 
 Please click the "Roperts" below to go to the shared google doc
