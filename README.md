@@ -8,10 +8,8 @@
 
 ## Reports
 
-- The compare of 
-<p align="center">
-  <a href="https://docs.google.com/document/d/18MlJEuFiBR3vO3u7bEP88UcVBsp8N8tO9GaoLmCol0k/edit?usp=sharing">Reports</a>
-</p>
+- Compare REACT Native versus iOS and Android application environment "https://docs.google.com/document/d/18MlJEuFiBR3vO3u7bEP88UcVBsp8N8tO9GaoLmCol0k/edit?usp=sharing"
+
 
 ## Build example application on IOS
 
