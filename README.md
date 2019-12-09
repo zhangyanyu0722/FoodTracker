@@ -18,11 +18,11 @@ Please click the "Roperts" below to go to the shared google doc
 Following the https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
 
 ## The results are showing as following:
-<center class="half">
-    <img src="https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.20%20PM.png" width="200"/>
-  <img src="https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.32%20PM.png" width="200"/>
-  <img src="https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.48%20PM.png" width="200"/>
-</center>
+<p float="left">
+  <img src="https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.20%20PM.png" width="100" />
+  <img src="https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.32%20PM.png" width="100" /> 
+  <img src="https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.48%20PM.png" width="100" />
+</p>
 <!-- <p align="center">
   <img src= "https://github.com/zhangyanyu0722/Mini_project_3/blob/master/Images/Screen%20Shot%202019-12-05%20at%2010.22.20%20PM.png" width="200" height="400">
 </p> -->
